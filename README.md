@@ -1,10 +1,10 @@
-# CS 262 Monopoly Web Service
+# CS 262 Lab 9 Monopoly Web Service
 
 This is the data service application for the
 [CS 262 sample Monopoly project](https://github.com/calvin-cs262-organization/monopoly-project),
- which is deployed here:
+ for Lab 9 which is deployed here:
 
-- <https://cs262-egbefbd4aae2h0df.canadacentral-01.azurewebsites.net><br>(This URL may vary from year to year.)
+- <lab9monopoly-service-h5chb3hbgmgcbmf6.westus-01.azurewebsites.net><br>
 
 Based on this URL, the service implements the following endpoints:
 
