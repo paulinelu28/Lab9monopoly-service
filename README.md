@@ -4,7 +4,7 @@ This is the data service application for the
 [CS 262 sample Monopoly project](https://github.com/calvin-cs262-organization/monopoly-project),
  for Lab 9 which is deployed here:
 
-- <lab9monopoly-service-h5chb3hbgmgcbmf6.westus-01.azurewebsites.net><br>
+- lab9monopoly-service-h5chb3hbgmgcbmf6.westus-01.azurewebsites.net<br>
 
 Based on this URL, the service implements the following endpoints:
 
